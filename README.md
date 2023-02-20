@@ -2,7 +2,7 @@
 
 An original action platformer for the Game Boy
 
-## Planning
+### Planning
 
 - [ ] PICO-8
   - [ ] Animated sprite viewer
@@ -11,7 +11,7 @@ An original action platformer for the Game Boy
     - [ ] Background and collision detection
     - [ ] Camera control
 
-## Development
+### Development
 
 - [ ] Stage 1
   - [ ] Clean up code from the last game
@@ -29,7 +29,7 @@ An original action platformer for the Game Boy
     - [ ] Update collision detection
   - [ ] Recreate stage from last game
 
-## Ideas
+### Ideas
 
 - [ ] Look and feel
   - Large sprites
